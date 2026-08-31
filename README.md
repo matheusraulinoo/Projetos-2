@@ -67,13 +67,12 @@ A régua de decisão do mercado mudou radicalmente nos últimos anos:
 ---
 ## Entrega 01:
 
-### BenchMark: 
-* [Análise de Competidores](./docs/analisedecompetidores.md)
+* [Benchmark - Análise de Competidores](./docs/analisedecompetidores.md)
 
 ---
 
 ### BackLog
-![Print BackLog](sprint/backlog.jpg)
+![Print BackLog](sprint/BackLog.jpg)
 
 ### Quadro do 1º Sprint
 ![Print do Quadro de sprints](sprint/Sprint1.jpg)
